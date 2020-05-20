@@ -825,6 +825,7 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -1039,4 +1040,17 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/* correction */
+.font-italic
+{
+    font-style: italic;
+}
+
+#contact-info
+{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
 }
