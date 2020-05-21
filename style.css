@@ -770,6 +770,7 @@ h4 {
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
+    font-size: 15px;
 }
 
 .bgc-white {
@@ -781,20 +782,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #92360C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F1DE6B!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #92360C;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #B2472A!important;
     color: #FFFFFF!important;
 }
 
