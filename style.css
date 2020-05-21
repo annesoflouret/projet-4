@@ -27,6 +27,16 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.font-italic {
+    font-style: italic;
+}
+
+#contact-info {
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -1043,14 +1053,3 @@ h4 {
 }
 
 /* correction */
-.font-italic
-{
-    font-style: italic;
-}
-
-#contact-info
-{
-    font-size: 15px;
-    display: flex;
-    justify-content: center;
-}
