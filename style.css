@@ -37,6 +37,19 @@ a:hover {
     justify-content: center;
 }
 
+#footer-partners{
+    margin-top: 2em;
+}
+
+#footer-partners ul{
+    margin-top: 1em;
+}
+
+#footer-partners-title{
+    font-size: 15px;
+    text-decoration: underline;
+}
+
 .bloc {
     width: 100%;
     clear: both;
