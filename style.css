@@ -768,7 +768,7 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin: auto;
 }
 
 .portfolio-row {
@@ -931,6 +931,9 @@ h4 {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+    .font-italic{
+        font-size: 20px;
+    }
     .b-parallax {
         background-attachment: scroll;
     }
@@ -1066,5 +1069,3 @@ h4 {
         text-align: center;
     }
 }
-
-/* correction */
